@@ -1,0 +1,14 @@
+{
+  "name": "wsc_profile",
+  "description": "using bootstrap",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "https://github.com/jayHun/WSC_profile",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
